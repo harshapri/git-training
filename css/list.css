@@ -1,0 +1,77 @@
+<html>
+<head>
+<title> Create a list </title>
+<style>  
+h1{color:green;
+text-align:center;border: 5px solid;border-color:#85c226; }
+h2{color:blue;
+text-align:left;}
+ol{color:blue;
+text-align:left;
+font-size:25px;}
+ul{color:red;
+font-size:25px;
+}
+div{color:navy;
+font-size:25px;}
+table,th,td{text-align:center;background-color:green;
+border:1px solid; border-color:blue;}
+</style>
+</head>
+<body>
+<h1>Unordered List</h1>
+<h2> Flowers:</h2>
+<p>
+<p class="p2">
+<UL type="bullet">
+<li> Rose</li>
+<li> Jasmine</li>
+<li> Lily</li>
+<li> Lotus</li>
+</ul></p>
+</p>
+<h1>Ordered List</h1>
+<h2> Mobile: </h2>
+<p>
+<p class="p1">
+<ol type="1">
+<li> Red MI</li>
+<li> Samsung</li>
+<li> One Plus</li>
+<li> Nokia</li>
+</ol>
+</p>
+</p>
+<h1 style="color:green;text-align:center;border:5px solid;border-color:darkblue; }">Description list</h1>
+<h2> Fruits: </h2>
+<div>
+<dl>
+ <dt>Banana:<dt>
+<dd>   --It is good for health<dd>
+<dt>Orange:<dt>
+<dd>    --It is sweet or sour<dd>
+<dt>Grapes:<dt>
+<dd>     --It is very sour<dd>
+<dt>Papaya:<dt>
+<dd>     --It is aslo good for health<dd>
+</dl>
+</div>
+
+<h1>Table</h1>
+<table>
+<tr>
+<th> NAME </th>
+<th> ID </th>
+</tr>
+<tr>
+<td style="colour:blue;">harsha</td>
+<td>1234</td>
+</tr>
+<tr>
+<td>priya</td>
+<td>5678</td>
+</tr>
+</table>
+</body>
+</html>
+
